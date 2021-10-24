@@ -1,9 +1,14 @@
 ### The name's Brighton.
 
+- <img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png" height="14px"> Student in computational linguistics @ UofM College of Engineering
+- Research assistant for psycholinguistic group WordLab
+- Director of Internal Affairs at FIRST Alumni & Mentor Network at Michigan
+- Programming in Python since June, 2013
+
 ### Find me here:
 
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/youtube_logo_icon_168737.png"/>][youtube]
-[<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"/>][linkedin]
+[<img align="left" alt="YouTube" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/youtube_logo_icon_168737.png"/>][youtube]
+[<img align="left" alt="LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"/>][linkedin]
 
 <br />
 
