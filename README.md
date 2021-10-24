@@ -1,4 +1,4 @@
-### The name's Brighton.
+### The name's Brighton. <img src="img/brightlogo-01.png" width="24px">
 
 <img src="https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/Block_M-Hex.png" width="18px"> Student in computational linguistics at UofM College of Engineering
 <br />
